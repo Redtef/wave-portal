@@ -1,11 +1,14 @@
-# buildspace Wave Portal 👋 
+# buildspace Wave Portal 👋
 
-### **Welcome!**
-To get started with this course, clone this repo and follow these commands:
+This project has been built as part of the Cohort **Build a Web3 App with Solidity + Ethereum Smart Contracts** by the Awesome people at [BuildSpace](https://buildspace.so/)
 
-1. Run `npm install` at the root of your directory
-2. Run `npm run start` to start the project
-3. Start coding!
+---
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/courses/CO02cf0f1c-f996-4f50-9669-cf945ca3fb0b) and link your Discord account so you can get access to helpful channels and your instructor!
+### The web3 project
+
+A wave portal where users authenticate via their Ethereum wallet to get the ability to write a message directly onto the Ethereum blockchain.
+
+### How to use
+
+1. Install the metamask wallet [Metamask](https://metamask.io/)
+2. Write me a message
