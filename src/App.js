@@ -1,5 +1,5 @@
 import * as React from "react";
-import { ethers } from "ethers";
+// import { ethers } from "ethers";
 import "./App.css";
 
 export default function App() {
@@ -8,7 +8,12 @@ export default function App() {
   return (
     <div className="mainContainer">
       <div className="dataContainer">
-        <div className="header">👋 gm !</div>
+        <div className="header">
+          <span role="img" aria-label="Wave">
+            👋
+          </span>
+          gm !
+        </div>
 
         <div className="bio">
           I am Hamza and I am a fullstack SWE currently learning alot about web3
